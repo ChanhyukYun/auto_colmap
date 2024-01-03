@@ -1,4 +1,4 @@
-Automatically build several 3D point cloud maps using COLMAP
+# Automatically build several 3D point cloud maps using COLMAP
 
 Only NYU Depth dataset v2 is supported with these codes.
 
